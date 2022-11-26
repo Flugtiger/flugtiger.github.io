@@ -1,3 +1,5 @@
-theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 title: Alex Lehmann - Software, Sailing & Some other things
 description: Personal blog about things I'm passionate about
+plugins:
+- jekyll-remote-theme
