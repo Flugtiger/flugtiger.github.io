@@ -3,3 +3,4 @@ title: Alex Lehmann - Software, Sailing & Some other things
 description: Personal blog about things I'm passionate about
 plugins:
 - jekyll-remote-theme
+- jekyll-feed
