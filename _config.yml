@@ -1,6 +1,35 @@
 remote_theme: "jeffreytse/jekyll-theme-yat"
-title: Alex Lehmann - Software, Sailing & Some other things
-description: Personal blog about things I'm passionate about
+title: Alex Lehmann
+description: >-
+  Personal blog of Alexander 'Alex' Lehmann - software developer located
+  in Dresden, Germany - about software development, software architecture,
+  sailing, gliding an what else comes to his mind. 
+copyright: "(c) 2022 Alexander Lehmann"
+
+baseurl: ""
+url: "https://alex-lehmann.io"
+favicon: ""
+debug: false
+theme_color: snowwhite
+brand_color: orangered
+yat:
+  date_format: "%b %d, %Y"
+
+defaults:
+  home:
+    heading: Software, Sailing & Some other things
+    subheading: Personal blog about things I'm passionate about
+
+banner:
+  image: /default
+  opacity: 1.0
+  background: "rgb(123 54 163)"
+  height: "320px"
+
 plugins:
 - jekyll-remote-theme
 - jekyll-feed
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-paginate
+- jekyll-spaceship
