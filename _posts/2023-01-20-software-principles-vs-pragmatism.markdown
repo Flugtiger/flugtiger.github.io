@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[DRAFT] Software: Principles vs. Pragmatism?"
+title:  "Software: Principles vs. Pragmatism?"
 category: software architecture
 ---
 
