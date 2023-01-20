@@ -87,7 +87,7 @@ This will be part of the next article on that topic, so stay tuned.
 
 ## TL; DR
 
-Principle in software development are principle in complex systems.
+Principle in software development are principles in complex systems.
 They describe the behavior of such a system by using only some of its input and output parameters.
 If we disregard all other parameters that also effect the outcome of the system, we might find a natural law and be able to reason much better about the principle.
 The way principles in software development are often formulated (without giving the outcome and without saying what law it is based on) might be a reason, why many developers don't like to accept principles as something that is broadly applicable and very helpful when making decisions.
