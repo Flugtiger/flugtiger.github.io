@@ -1,5 +1,5 @@
 * types of events
-  * chatty
+  * fact
   * delta
 * issues that can occur
   * lost events
@@ -9,6 +9,7 @@
   * at least once
   * at most once
   * exactly once
+* CDC + outbox pattern
 * FIFO vs unordered
   * optimistic locking
 * the Saga pattern
