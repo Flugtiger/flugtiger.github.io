@@ -1,4 +1,10 @@
-Happy to be a bottleneck
+---
+layout: post
+title:  "Happy to be a bottleneck?"
+category: software architecture
+---
+
+# Happy to be a bottleneck?
 
 Let me tell you a story of two teams in software development.
 Let's call them team "Red" and team "Blue" and they are both part of a company called "eRetail".
